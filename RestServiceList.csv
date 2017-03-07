@@ -1,0 +1,11 @@
+CONTACT,EMAIL_URL,NAME,URL
+CIMC GIS Team,Jenkins.Lisa@epa.gov,CIMC Map Service,https://map22.epa.gov/arcgis/rest/services/cimc/Cleanups/MapServer
+EPA Office of Water STORET Warehouse,https://www.epa.gov/waterdata/storage-and-retrieval-and-water-quality-exchange,STORET Map Service,https://watersgeo.epa.gov/arcgis/rest/services/OWRAD_NP21/STORET_NP21/MapServer/0
+EPA Office of Water 303(d) Program,https://www.epa.gov/tmdl,Impaired Waters Map Service,https://watersgeo.epa.gov/arcgis/rest/services/OWRAD_NP21/303D_NP21/MapServer
+Toxic Release Inventory System (TRIS),https://www.epa.gov/toxics-release-inventory-tri-program/forms/tri-program-contacts,TRI Map Service,https://geodata.epa.gov/ArcGIS/rest/services/OEI/FRS_INTERESTS/MapServer/26
+EPA Office of Water Facilities that Discharge to Water,https://www.epa.gov/npdes,NPDES Map Service,https://watersgeo.epa.gov/arcgis/rest/services/OWRAD_NP21/NPDES_NP21/MapServer
+EPA Office of Environmental Information,https://www.epa.gov/aboutepa/forms/contact-us-about-epas-organization-and-history,Tribal Areas,https://map11.epa.gov/arcgis/rest/services/EMEF/tribal/MapServer
+NOAA Office for Coastal Management,https://coast.noaa.gov/digitalcoast/tools/slr.html,Sea Level Rise,http://maps2.coast.noaa.gov/arcgis/rest/services/dc_slr/slr_0ft/MapServer
+FEMA RiskMap,https://fema.maps.arcgis.com/home/item.html?id=cbe088e7c8704464aa0fc34eb99e7f30,FEMA Flood Hazard Zones,https://hazards.fema.gov/gis/nfhl/rest/services/public/NFHL/MapServer/28
+FEMA RiskMap,https://fema.maps.arcgis.com/home/item.html?id=cbe088e7c8704464aa0fc34eb99e7f30,FEMA NFHL Availability,https://hazards.fema.gov/gis/nfhl/rest/services/public/NFHL/MapServer/0
+EPA Office of Environmental Information,https://www.epa.gov/aboutepa/forms/contact-us-about-epas-organization-and-history,EPA Congressional District Boundaries,https://geodata.epa.gov/arcgis/rest/services/OEI/CongressionalDistricts/MapServer
